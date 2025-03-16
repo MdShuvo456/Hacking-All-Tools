@@ -1,20 +1,20 @@
 # 🛠️ Hacking-Tools
 
-📜 Table of Contents
+## 📜 **Table of Contents**
 
-    🔍 **Information Gathering**
-    🔎 **Vulnerability Analysis**
-    💥 **Exploitation Tools**
-    📡 **Wireless Attacks**
-    🧑‍💻 **Forensics Tools**
-    ⏳ **Stress Testing**
-    🕵️‍♀️ **Sniffing & Spoofing**
-    🔐 **Password Attacks**
-    🌐 **Web Application Analysis**
-    🧑‍💻 **Reverse Engineering**
-    📝 **Reporting Tools**
-    🎭 **Social Engineering Tools**
-    🧩 **Miscellaneous**
+   - 🔍 **Information Gathering**
+   - 🔎 **Vulnerability Analysis**
+   - 💥 **Exploitation Tools**
+   - 📡 **Wireless Attacks**
+   - 🧑‍💻 **Forensics Tools**
+   - ⏳ **Stress Testing**
+   - 🕵️‍♀️ **Sniffing & Spoofing**
+   - 🔐 **Password Attacks**
+   - 🌐 **Web Application Analysis**
+   - 🧑‍💻 **Reverse Engineering**
+   - 📝 **Reporting Tools**
+   - 🎭 **Social Engineering Tools**
+   - 🧩 **Miscellaneous**
 
 🔍 Information Gathering
 
