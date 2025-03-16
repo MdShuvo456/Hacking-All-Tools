@@ -2,19 +2,19 @@
 
 📜 Table of Contents
 
-    🔍 Information Gathering
-    🔎 Vulnerability Analysis
-    💥 Exploitation Tools
-    📡 Wireless Attacks
-    🧑‍💻 Forensics Tools
-    ⏳ Stress Testing
-    🕵️‍♀️ Sniffing & Spoofing
-    🔐 Password Attacks
-    🌐 Web Application Analysis
-    🧑‍💻 Reverse Engineering
-    📝 Reporting Tools
-    🎭 Social Engineering Tools
-    🧩 Miscellaneous
+    🔍 **Information Gathering**
+    🔎 **Vulnerability Analysis**
+    💥 **Exploitation Tools**
+    📡 **Wireless Attacks**
+    🧑‍💻 **Forensics Tools**
+    ⏳ **Stress Testing**
+    🕵️‍♀️ **Sniffing & Spoofing**
+    🔐 **Password Attacks**
+    🌐 **Web Application Analysis**
+    🧑‍💻 **Reverse Engineering**
+    📝 **Reporting Tools**
+    🎭 **Social Engineering Tools**
+    🧩 **Miscellaneous**
 
 🔍 Information Gathering
 
@@ -293,9 +293,9 @@
 
 🧩 Miscellaneous
 
-    🐉 Kali Linux – Advanced penetration testing and security auditing OS.
-    🦜 Parrot Security OS – Security-focused OS for pentesting and privacy.
-    🧑‍💻 BackBox – Ubuntu-based Linux distro for penetration testing.
+    🐉 **Kali Linux** – Advanced penetration testing and security auditing OS.
+    🦜 **Parrot Security** OS – Security-focused OS for pentesting and privacy.
+    🧑‍💻 **BackBox** – Ubuntu-based Linux distro for penetration testing.
     🕵️ BlackArch Linux – Arch-based OS with 2800+ hacking tools.
     🔎 Pentoo – Security-focused Gentoo-based Linux.
     🧑‍💻 Tails – Privacy and anonymity-focused live OS.
