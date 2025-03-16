@@ -267,50 +267,50 @@
     📋 PwnDoc – Pentest reporting tool with customizable templates.
     🧑‍💻 PenTest-Wiki – Knowledge base for pentesting & reporting references.
 
-🎭 Social Engineering Tools
+## 🎭 **Social Engineering Tools**
 
-    🧑‍💻 SET (Social-Engineer Toolkit) – Advanced framework for social engineering attacks.
-    📧 King Phisher – Phishing campaign toolkit for testing and training.
-    🎣 Phishing Frenzy – Phishing campaign automation platform.
-    🪤 Gophish – Open-source phishing toolkit for awareness and testing.
-    📩 Evilginx2 – Phishing toolkit using reverse proxy for capturing credentials & tokens.
-    🕵️‍♀️ HiddenEye – Modern phishing tool with advanced social engineering features.
-    🔥 BlackEye – Phishing tool with site cloning capabilities.
-    🛜 Zphisher – Advanced phishing tool with tunneling support.
-    📡 SocialFish – Social engineering phishing framework.
-    🧑‍💻 HiddenEye Reborn – Improved version of HiddenEye for phishing & spoofing.
-    🧑‍💻 EvilPhish – Social engineering tool for phishing websites.
-    📬 ShellPhish – Automated phishing tool supporting multiple templates.
-    🧑‍💻 CamPhish – Webcam phishing attack tool.
-    🕵️ Weeman – HTTP server-based phishing framework.
-    📲 QRGen – QR code phishing generator.
-    🕵️ PyPhisher – Python-based phishing toolkit with multiple site templates.
-    🕸️ AdvPhishing – Advanced phishing tool with login page cloning.
-    🎯 SocialBox – Brute-force social media hacking toolkit.
-    🧑‍💻 XPhisher – Advanced phishing tool with inbuilt tunneling.
-    🌐 CredSniper – Phishing framework with two-factor authentication bypass support.
+   - 🧑‍💻 **SET (Social-Engineer Toolkit)** – Advanced framework for social engineering attacks.
+   - 📧 **King Phisher** – Phishing campaign toolkit for testing and training.
+   - 🎣 **Phishing Frenzy** – Phishing campaign automation platform.
+   - 🪤 **Gophish** – Open-source phishing toolkit for awareness and testing.
+   - 📩 **Evilginx2** – Phishing toolkit using reverse proxy for capturing credentials & tokens.
+   - 🕵️‍♀️ **HiddenEye** – Modern phishing tool with advanced social engineering features.
+   - 🔥 **BlackEye** – Phishing tool with site cloning capabilities.
+   - 🛜 **Zphisher** – Advanced phishing tool with tunneling support.
+   - 📡 **SocialFish** – Social engineering phishing framework.
+   - 🧑‍💻 **HiddenEye Reborn** – Improved version of HiddenEye for phishing & spoofing.
+   - 🧑‍💻 **EvilPhish** – Social engineering tool for phishing websites.
+   - 📬 **ShellPhish** – Automated phishing tool supporting multiple templates.
+   - 🧑‍💻 **CamPhish** – Webcam phishing attack tool.
+   - 🕵️ **Weeman** – HTTP server-based phishing framework.
+   - 📲 **QRGen** – QR code phishing generator
+   - 🕵️ **PyPhisher** – Python-based phishing toolkit with multiple site templates.
+   - 🕸️ **AdvPhishing** – Advanced phishing tool with login page cloning.
+   - 🎯 **SocialBox** – Brute-force social media hacking toolkit.
+   - 🧑‍💻 **XPhisher** – Advanced phishing tool with inbuilt tunneling.
+   - 🌐 **CredSniper** – Phishing framework with two-factor authentication bypass support.
 
-🧩 Miscellaneous
+## 🧩 **Miscellaneous**
 
-    🐉 **Kali Linux** – Advanced penetration testing and security auditing OS.
-    🦜 **Parrot Security** OS – Security-focused OS for pentesting and privacy.
-    🧑‍💻 **BackBox** – Ubuntu-based Linux distro for penetration testing.
-    🕵️ BlackArch Linux – Arch-based OS with 2800+ hacking tools.
-    🔎 Pentoo – Security-focused Gentoo-based Linux.
-    🧑‍💻 Tails – Privacy and anonymity-focused live OS.
-    🧪 CAINE – Digital forensics live Linux distro.
-    🧑‍💻 Bugtraq – Linux distro for pentesting & malware analysis.
-    🔒 Whonix – Anonymous OS based on Tor.
-    🧠 DEFT Linux – Digital evidence & forensics toolkit.
-    🌐 Subgraph OS – Secure Linux distro with hardened kernel.
-    🧑‍💻 ArchStrike – Arch Linux repository for security tools.
-    🧑‍💻 Fedora Security Lab – Fedora spin for security auditing.
-    🧑‍💻 SamuraiWTF – Web application penetration testing environment.
-    🔎 Cyborg Hawk – Security distro for penetration testing.
-    🧑‍💻 Matriux Krypton – Debian-based security distribution.
-    🔥 NodeZero – Ubuntu-based penetration testing OS.
-    🧑‍💻 GnackTrack – Linux live distribution for penetration testing.
-    🛡️ SELKS – Suricata-based IDS/IPS platform.
-    🕵️‍♂️ PentestBox – Penetration testing toolkit for Windows.
+   - 🐉 **Kali Linux** – Advanced penetration testing and security auditing OS.
+   - 🦜 **Parrot Security** OS – Security-focused OS for pentesting and privacy.
+   - 🧑‍💻 **BackBox** – Ubuntu-based Linux distro for penetration testing.
+   - 🕵️ **BlackArch Linux** – Arch-based OS with 2800+ hacking tools.
+   - 🔎 **Pentoo** – Security-focused Gentoo-based Linux.
+   - 🧑‍💻 **Tails** – Privacy and anonymity-focused live OS.
+   - 🧪 **CAINE** – Digital forensics live Linux distro.
+   - 🧑‍💻 **Bugtraq** – Linux distro for pentesting & malware analysis.
+   - 🔒 **Whonix** – Anonymous OS based on Tor.
+   - 🧠 **DEFT Linux** – Digital evidence & forensics toolkit.
+   - 🌐 **Subgraph OS** – Secure Linux distro with hardened kernel.
+   - 🧑‍💻 **ArchStrike** – Arch Linux repository for security tools.
+   - 🧑‍💻 **Fedora Security Lab** – Fedora spin for security auditing.
+   - 🧑‍💻 **SamuraiWTF** – Web application penetration testing environment.
+   - 🔎 **Cyborg Hawk** – Security distro for penetration testing.
+   - 🧑‍💻 **Matriux Krypton** – Debian-based security distribution.
+   - 🔥 **NodeZero** – Ubuntu-based penetration testing OS.
+   - 🧑‍💻 **GnackTrack** – Linux live distribution for penetration testing.
+   - 🛡️ **SELKS** – Suricata-based IDS/IPS platform.
+   - 🕵️‍♂️ **PentestBox** – Penetration testing toolkit for Windows.
 
 
