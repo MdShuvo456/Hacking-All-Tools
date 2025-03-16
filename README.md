@@ -38,30 +38,30 @@
    -  🛡️ **Netcraft** – Website profiling and phishing detection.
    -  🏛️ **BuiltWith** – Website technology lookup and analysis.
 
-🔎 Vulnerability Analysis
+## 🔎 **Vulnerability Analysis**
 
-    🧪 OpenVAS – Open-source vulnerability scanner.
-    🛡️ Nessus – Commercial vulnerability assessment tool.
-    🕵️‍♂️ Nikto – Web server scanner for detecting vulnerabilities.
-    🐺 Wapiti – Web application security scanner.
-    🧑‍💻 Vega – GUI-based web vulnerability scanner.
-    🕷️ Arachni – Feature-rich web application security scanner.
-    🐍 SQLmap – Automated SQL injection detection and exploitation tool.
-    🕸️ OWASP ZAP – Open-source web application security scanner.
-    🛜 Nmap Vulners – Nmap NSE script for CVE detection.
-    🔎 Retire.js – JavaScript library vulnerability scanner.
-    ⚙️ Dependency-Check – Vulnerability analysis for project dependencies.
-    🧑‍💻 Bandit – Security linter for Python code.
-    🐞 Vuls – Agentless vulnerability scanner for Linux/FreeBSD servers.
-    📦 Trivy – Vulnerability scanner for containers and dependencies.
-    🧑‍💻 Grype – Vulnerability scanner for container images and filesystems.
-    🧑‍💻 Safety – Python dependency security scanner.
-    📄 Lychee – Broken link checker with vulnerability detection potential.
-    📜 GitLeaks – Detect hardcoded secrets and sensitive data.
-    🧑‍💻 ScoutSuite – Multi-cloud security auditing tool.
-    🧑‍💻 CloudSploit – AWS security auditing tool.
+   - 🧪 **OpenVAS** – Open-source vulnerability scanner.
+   - 🛡️ **Nessus** – Commercial vulnerability assessment tool.
+   - 🕵️‍♂️ **Nikto** – Web server scanner for detecting vulnerabilities.
+   - 🐺 **Wapiti** – Web application security scanner.
+   - 🧑‍💻 **Vega** – GUI-based web vulnerability scanner.
+   - 🕷️ **Arachni** – Feature-rich web application security scanner.
+   - 🐍 **SQLmap** – Automated SQL injection detection and exploitation tool.
+   - 🕸️ **OWASP ZAP** – Open-source web application security scanner.
+   - 🛜 **Nmap Vulners** – Nmap NSE script for CVE detection.
+   - 🔎 **Retire.js** – JavaScript library vulnerability scanner.
+   - ⚙️ **Dependency-Check** – Vulnerability analysis for project dependencies
+   - 🧑‍💻 **Bandit** – Security linter for Python code.
+   - 🐞 **Vuls** – Agentless vulnerability scanner for Linux/FreeBSD servers.
+   - 📦 **Trivy** – Vulnerability scanner for containers and dependencies.
+   - 🧑‍💻 **Grype** – Vulnerability scanner for container images and filesystems.
+   - 🧑‍💻 **Safety** – Python dependency security scanner.
+   - 📄 **Lychee** – Broken link checker with vulnerability detection potential.
+   - 📜 **GitLeaks** – Detect hardcoded secrets and sensitive data.
+   - 🧑‍💻 **ScoutSuite** – Multi-cloud security auditing tool.
+   - 🧑‍💻 **CloudSploit** – AWS security auditing tool.
 
-💥 Exploitation Tools
+## 💥 **Exploitation Tools**
 
     🎯 Metasploit Framework – Powerful exploit development and penetration testing framework.
     🚀 Armitage – GUI front-end for Metasploit to visualize attacks.
