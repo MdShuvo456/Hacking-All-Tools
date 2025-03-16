@@ -3,7 +3,7 @@
 ## 📜 **Table of Contents**
 
    - 🔍 **Information Gathering**
-   - 🔎 **Vulnerability Analysis**
+   -  🔎 **Vulnerability Analysis**
    - 💥 **Exploitation Tools**
    - 📡 **Wireless Attacks**
    - 🧑‍💻 **Forensics Tools**
@@ -17,26 +17,26 @@
    - 🧩 **Miscellaneous**
 
 ## 🔍 **Information Gathering**
-    🛜 **Nmap** – Network scanning and mapping tool.
-    📶 **Kismet** – Wireless network detector, sniffer, and intrusion detection.
-    🕵️ **Maltego** – OSINT and data mining tool for information analysis.
-    📨 **theHarvester** – Tool to gather emails, subdomains, hosts, and more.
-    🔗 **Recon-ng** – Full-featured web reconnaissance framework.
-    🕵️‍♂️ **SpiderFoot** – Automate OSINT collection from multiple sources.
-    🔍 **Amass** – Network mapping and external asset discovery tool.
-    🗂️ **Sublist3r** – Subdomain enumeration using search engines.
-    🧑‍💻 **Assetfinder** – Subdomain discovery using various sources.
-    🌍 **crt.sh** – SSL certificate transparency log search engine.
-    🧪 **Dnsrecon** – Perform DNS enumeration and zone transfers.
-    📜 **Fierce** – DNS reconnaissance and attack tool.
-    📄 **WHOIS** – Domain registration and ownership lookup.
-    📬 **EmailHarvester** – Email enumeration and gathering.
-    🕸️ **Shodan** – Search engine for internet-connected devices.
-    🔥 **Censys** – Search engine for hosts and networks on the internet.
-    🌐 **OSINT Framework** – Collection of OSINT tools and resources.
-    🧑‍💻 **FOCA** – Metadata extraction and document analysis.
-    🛡️ **Netcraft** – Website profiling and phishing detection.
-    🏛️ **BuiltWith** – Website technology lookup and analysis.
+   - 🛜 **Nmap** – Network scanning and mapping tool.
+   - 📶 **Kismet** – Wireless network detector, sniffer, and intrusion detection.
+   - 🕵️ **Maltego** – OSINT and data mining tool for information analysis.
+   - 📨 **theHarvester** – Tool to gather emails, subdomains, hosts, and more.
+   - 🔗 **Recon-ng** – Full-featured web reconnaissance framework.
+   - 🕵️‍♂️ **SpiderFoot** – Automate OSINT collection from multiple sources.
+   - 🔍 **Amass** – Network mapping and external asset discovery tool.
+   - 🗂️ **Sublist3r** – Subdomain enumeration using search engines.
+   - 🧑‍💻 **Assetfinder** – Subdomain discovery using various sources.
+   - 🌍 **crt.sh** – SSL certificate transparency log search engine.
+   - 🧪 **Dnsrecon** – Perform DNS enumeration and zone transfers.
+   - 📜 **Fierce** – DNS reconnaissance and attack tool.
+   - 📄 **WHOIS** – Domain registration and ownership lookup.
+   - 📬 **EmailHarvester** – Email enumeration and gathering.
+   - 🕸️ **Shodan** – Search engine for internet-connected devices.
+   - 🔥 **Censys** – Search engine for hosts and networks on the internet.
+   - 🌐 **OSINT Framework** – Collection of OSINT tools and resources.
+   -  🧑‍💻 **FOCA** – Metadata extraction and document analysis.
+   -  🛡️ **Netcraft** – Website profiling and phishing detection.
+   -  🏛️ **BuiltWith** – Website technology lookup and analysis.
 
 🔎 Vulnerability Analysis
 
