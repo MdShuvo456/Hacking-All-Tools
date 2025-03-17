@@ -176,72 +176,72 @@
 
 ## 🔐 **Password Attacks**
 
-    🔥 John the Ripper – Password cracking tool for various password hashes.
-    🧑‍💻 Hydra – Brute-force tool that supports a wide range of protocols.
-    ⚡ Hashcat – Advanced password recovery using GPUs.
-    🐍 Medusa – A speedy, parallelized login brute-forcer.
-    🌐 Aircrack-ng – WiFi password cracking suite.
-    🔐 Wifite – Wireless network attack tool focused on WPA/WPA2.
-    🧠 THC-Hydra – A very fast network login cracker.
-    🎯 Hash-Toolkit – A tool for password hash cracking.
-    🛠️ Brutus – An old but reliable password cracker for HTTP, FTP, and more.
-    🔑 Burp Suite – A popular web vulnerability scanner with password attack features.
-    🧑‍💻 Ophcrack – A Windows password cracker using rainbow tables.
-    💻 Cain & Abel – A versatile tool for cracking various password hashes, sniffing networks, and decoding passwords.
-    🔐 L0phtCrack – Windows password auditing and recovery tool.
-    🧩 CrackStation – A free online service for cracking password hashes using dictionary attacks.
-    🔓 RainbowCrack – A tool that utilizes rainbow tables to crack passwords.
-    🧑‍💻 Medusa – Parallelized login brute-forcer for multiple protocols.
-    🔥 Patator – A multi-purpose brute-forcing tool that supports numerous protocols.
-    🛡️ RSMangler – A hash bruteforce tool for creating password dictionaries.
-    🧑‍💻 CrackMapExec – A post-exploitation tool for automating credential validation.
-    🕵️‍♀️ SudoKiller – A tool for privilege escalation that can be used for password cracking in Unix-based systems.
+   - 🔥 **John the Ripper** – Password cracking tool for various password hashes.
+   - 🧑‍💻 Hydra – Brute-force tool that supports a wide range of protocols.
+   - ⚡ Hashcat – Advanced password recovery using GPUs.
+   - 🐍 Medusa – A speedy, parallelized login brute-forcer.
+   - 🌐 Aircrack-ng – WiFi password cracking suite.
+   - 🔐 Wifite – Wireless network attack tool focused on WPA/WPA2.
+   - 🧠 THC-Hydra – A very fast network login cracker.
+   - 🎯 Hash-Toolkit – A tool for password hash cracking.
+   - 🛠️ Brutus – An old but reliable password cracker for HTTP, FTP, and more.
+   - 🔑 Burp Suite – A popular web vulnerability scanner with password attack features.
+   - 🧑‍💻 Ophcrack – A Windows password cracker using rainbow tables.
+   - 💻 Cain & Abel – A versatile tool for cracking various password hashes, sniffing networks, and decoding passwords.
+   - 🔐 L0phtCrack – Windows password auditing and recovery tool.
+   - 🧩 CrackStation – A free online service for cracking password hashes using dictionary attacks.
+   - 🔓 RainbowCrack – A tool that utilizes rainbow tables to crack passwords.
+   - 🧑‍💻 Medusa – Parallelized login brute-forcer for multiple protocols.
+   - 🔥 Patator – A multi-purpose brute-forcing tool that supports numerous protocols.
+   - 🛡️ RSMangler – A hash bruteforce tool for creating password dictionaries.
+   - 🧑‍💻 CrackMapExec – A post-exploitation tool for automating credential validation.
+   - 🕵️‍♀️ SudoKiller – A tool for privilege escalation that can be used for password cracking in Unix-based systems.
 
-🌐 Web Application Analysis
+## 🌐 **Web Application Analysis**
 
-    🧑‍💻 Burp Suite – Web security testing toolkit.
-    🕵️ OWASP ZAP – Open-source web application scanner.
-    🐍 SQLmap – Automated SQL injection tool.
-    📜 Wappalyzer – Identify technologies on websites.
-    🧑‍💻 Dirb – Web content scanner.
-    📂 Gobuster – Directory and DNS brute-forcing.
-    🔍 Nikto – Web server vulnerability scanner.
-    🧑‍💻 Sublist3r – Subdomain enumeration.
-    🕵️ Amass – Network mapping and subdomain enumeration.
-    📝 Httpx – Fast HTTP probing.
-    🌐 FFUF – Fast web fuzzer.
-    🧑‍💻 WhatWeb – Identify web technologies.
-    🛠️ Nuclei – Vulnerability scanning and templating.
-    🧑‍💻 XSStrike – XSS detection and exploitation.
-    🐞 Commix – Automated command injection.
-    🔥 WPScan – WordPress security scanner.
-    🛡️ Cmsmap – CMS detection and exploitation.
-    🔍 Arachni – Advanced web vulnerability scanner.
-    🕵️ Waybackurls – Fetch URLs from Wayback Machine.
-    🧑‍💻 Unfurl – Extract URLs and data from URLs.
+   - 🧑‍💻 Burp Suite – Web security testing toolkit.
+   - 🕵️ OWASP ZAP – Open-source web application scanner.
+   - 🐍 SQLmap – Automated SQL injection tool.
+   - 📜 Wappalyzer – Identify technologies on websites.
+   - 🧑‍💻 Dirb – Web content scanner.
+   - 📂 Gobuster – Directory and DNS brute-forcing.
+   - 🔍 Nikto – Web server vulnerability scanner.
+   - 🧑‍💻 Sublist3r – Subdomain enumeration.
+   - 🕵️ Amass – Network mapping and subdomain enumeration.
+   - 📝 Httpx – Fast HTTP probing.
+   - 🌐 FFUF – Fast web fuzzer.
+   - 🧑‍💻 WhatWeb – Identify web technologies.
+   - 🛠️ Nuclei – Vulnerability scanning and templating.
+   - 🧑‍💻 XSStrike – XSS detection and exploitation.
+   - 🐞 Commix – Automated command injection.
+   - 🔥 WPScan – WordPress security scanner.
+   - 🛡️ Cmsmap – CMS detection and exploitation.
+   - 🔍 Arachni – Advanced web vulnerability scanner.
+   - 🕵️ Waybackurls – Fetch URLs from Wayback Machine.
+   - 🧑‍💻 Unfurl – Extract URLs and data from URLs.
 
 ## 🧑‍💻 **Reverse Engineering**
 
-    🧠 **Ghidra** – Open-source software reverse engineering framework.
-    🔎 **Radare2** – Command-line reverse engineering toolkit.
-    🛠️ **OllyDbg** – 32-bit assembler-level debugger for Windows.
-    🧑‍💻 IDA Pro – Industry-standard interactive disassembler.
-    🐍 Binary Ninja – Interactive binary analysis platform.
-    🛡️ x64dbg – Open-source Windows debugger for x64 and x86.
-    🧬 Cutter – GUI for Radare2 with advanced analysis features.
-    📝 Hopper – Mac & Linux disassembler with powerful analysis.
-    🧑‍💻 dnSpy – .NET debugger and assembly editor.
-    🔄 RetDec – Open-source decompiler for machine code.
-    ⚙️ angr – Python framework for binary analysis.
-    🧑‍💻 Frida – Dynamic instrumentation toolkit.
-    🔗 Binary Analysis Toolkit (BAT) – Malware analysis and binary inspection.
-    🐛 Rizin – Fork of Radare2 with a focus on usability.
-    🗂️ PEiD – Detect packers, cryptors, and compilers.
-    🧑‍💻 DiE (Detect It Easy) – Portable executable identifier.
-    📊 LIEF – Library for parsing and modifying executables.
-    🔍 Snowman – Native code to C++ decompiler.
-    🧑‍💻 APKTool – Decompile and rebuild Android APKs.
-    🔓 JEB Decompiler – Commercial decompiler for Android and other platforms.
+   - 🧠 **Ghidra** – Open-source software reverse engineering framework.
+   - 🔎 **Radare2** – Command-line reverse engineering toolkit.
+   - 🛠️ **OllyDbg** – 32-bit assembler-level debugger for Windows.
+   - 🧑‍💻 **IDA Pro** – Industry-standard interactive disassembler
+   - 🐍 **Binary Ninja** – Interactive binary analysis platform.
+   - 🛡️ **x64dbg** – Open-source Windows debugger for x64 and x86.
+   - 🧬 **Cutter** – GUI for Radare2 with advanced analysis features.
+   - 📝 **Hopper** – Mac & Linux disassembler with powerful analysis.
+   - 🧑‍💻 **dnSpy** – .NET debugger and assembly editor.
+   - 🔄 **RetDec** – Open-source decompiler for machine code.
+   - ⚙️ **angr** – Python framework for binary analysis.
+   - 🧑‍💻 **Frida** – Dynamic instrumentation toolkit.
+   - 🔗 **Binary Analysis Toolkit (BAT)** – Malware analysis and binary inspection.
+   - 🐛 **Rizin** – Fork of Radare2 with a focus on usability.
+   - 🗂️ **PEiD** – Detect packers, cryptors, and compilers.
+   - 🧑‍💻 **DiE (Detect It Easy)** – Portable executable identifier.
+   - 📊 **LIEF** – Library for parsing and modifying executables.
+   - 🔍 **Snowman** – Native code to C++ decompiler.
+   - 🧑‍💻 **APKTool** – Decompile and rebuild Android APKs.
+   - 🔓 **JEB Decompiler** – Commercial decompiler for Android and other platforms.
 
 ## 📝 **Reporting Tools**
 
