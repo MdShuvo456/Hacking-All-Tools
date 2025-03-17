@@ -153,28 +153,28 @@
 
 ## 🕵️‍♀️ **Sniffing & Spoofing**
 
-    🌐 Wireshark – Network protocol analyzer
-    🕵️‍♂️ Ettercap – Man-in-the-middle attack tool
-    ⚡ BetterCAP – Flexible network attack & monitoring tool
-    📡 Tcpdump – Command-line packet analyzer
-    🌍 Nessus – Vulnerability scanner with sniffing capabilities
-    🐍 Scapy – Python-based interactive packet manipulation program
-    🌐 MITMf – Man-in-the-middle framework for network attacks
-    🦊 Fakenet-NG – Fake network traffic generation tool
-    🐾 Dsniff – Collection of network monitoring tools for penetration testers
-    🎯 Responder – LLMNR, NBT-NS, and MDNS poisoner for internal network attacks
-    💻 Ettercap-NG – Enhanced version of Ettercap with additional features
-    🧑‍💻 Arp-Spoof – Tool to intercept network traffic by sending ARP packets
-    🌐 WiFi-Pumpkin – WiFi spoofing tool
-    🎣 Aircrack-ng – Suite for wireless network auditing and cracking WEP/WPA keys
-    🧩 Xplico – Network forensics tool that extracts applications' data from pcap files
-    📊 Pry-Fi – A tool to find and exploit vulnerabilities in wireless networks
-    🕵️‍♀️ Kismet – Wireless network detector, sniffer, and intrusion detection system
-    🐍 Burp Suite – Web vulnerability scanner and network attack tool with advanced interception features
-    💻 Snoopy – Sniffing & spoofing tool focused on DNS & HTTP traffic
-    📡 Snort – Open-source network intrusion detection & prevention system
+   - 🌐 **Wireshark** – Network protocol analyzer
+   - 🕵️‍♂️ **Ettercap** – Man-in-the-middle attack tool
+   - ⚡ **BetterCAP** – Flexible network attack & monitoring tool
+   - 📡 **Tcpdump** – Command-line packet analyzer
+   - 🌍 **Nessus** – Vulnerability scanner with sniffing capabilities
+   - 🐍 **Scapy** – Python-based interactive packet manipulation program
+   - 🌐 **MITMf** – Man-in-the-middle framework for network attacks
+   - 🦊 **Fakenet-NG** – Fake network traffic generation tool
+   - 🐾 **Dsniff** – Collection of network monitoring tools for penetration testers
+   - 🎯 **Responder** – LLMNR, NBT-NS, and MDNS poisoner for internal network attacks
+   - 💻 **Ettercap-NG** – Enhanced version of Ettercap with additional features
+   - 🧑‍💻 **Arp-Spoof** – Tool to intercept network traffic by sending ARP packets
+   - 🌐 **WiFi-Pumpkin** – WiFi spoofing tool
+   - 🎣 **Aircrack-ng** – Suite for wireless network auditing and cracking WEP/WPA keys
+   - 🧩 **Xplico** – Network forensics tool that extracts applications' data from pcap files
+   - 📊 **Pry-Fi** – A tool to find and exploit vulnerabilities in wireless networks
+   - 🕵️‍♀️ **Kismet** – Wireless network detector, sniffer, and intrusion detection system
+   - 🐍 **Burp Suite** – Web vulnerability scanner and network attack tool with advanced interception features
+   - 💻 **Snoopy** – Sniffing & spoofing tool focused on DNS & HTTP traffic
+   - 📡 **Snort** – Open-source network intrusion detection & prevention system
 
-🔐 Password Attacks
+## 🔐 **Password Attacks**
 
     🔥 John the Ripper – Password cracking tool for various password hashes.
     🧑‍💻 Hydra – Brute-force tool that supports a wide range of protocols.
@@ -220,11 +220,11 @@
     🕵️ Waybackurls – Fetch URLs from Wayback Machine.
     🧑‍💻 Unfurl – Extract URLs and data from URLs.
 
-🧑‍💻 Reverse Engineering
+## 🧑‍💻 **Reverse Engineering**
 
-    🧠 Ghidra – Open-source software reverse engineering framework.
-    🔎 Radare2 – Command-line reverse engineering toolkit.
-    🛠️ OllyDbg – 32-bit assembler-level debugger for Windows.
+    🧠 **Ghidra** – Open-source software reverse engineering framework.
+    🔎 **Radare2** – Command-line reverse engineering toolkit.
+    🛠️ **OllyDbg** – 32-bit assembler-level debugger for Windows.
     🧑‍💻 IDA Pro – Industry-standard interactive disassembler.
     🐍 Binary Ninja – Interactive binary analysis platform.
     🛡️ x64dbg – Open-source Windows debugger for x64 and x86.
