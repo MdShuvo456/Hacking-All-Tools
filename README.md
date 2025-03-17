@@ -108,50 +108,50 @@
 
 ## 🧑‍💻 **Forensics Tools**
 
-    🧑‍💻 Autopsy – Digital forensics platform for analyzing hard drives and smartphones.
-    🧠 Volatility – Memory forensics framework for analyzing RAM dumps.
-    🗂️ Binwalk – Firmware analysis tool for extracting embedded files.
-    🔍 Sleuth Kit (TSK) – Command-line tools for disk image investigation.
-    🧑‍💻 ExifTool – Metadata extractor for images, videos, and documents.
-    🗃️ TestDisk – Disk recovery tool to restore lost partitions.
-    🔄 PhotoRec – File recovery software for deleted files from disks.
-    🧑‍💻 Foremost – File carving tool for data recovery based on headers.
-    🔑 Hashdeep – File hashing tool with recursive hashing & audit mode.
-    🧑‍💻 Bulk Extractor – Extracts email, URLs, and other artifacts from raw data.
-    🗄️ Digital Forensics Framework (DFF) – Open-source platform for digital forensics.
-    🧑‍💻 Xplico – Network forensics tool to reconstruct network sessions.
-    🧑‍💻 NetworkMiner – Passive network packet analyzer for network forensics.
-    🧑‍💻 Pdf-parser – Analyze and extract content from PDF files.
-    🧑‍💻 RegRipper – Windows registry analysis tool.
-    🧑‍💻 PEView – Portable executable (PE) file viewer for malware analysis.
-    🧑‍💻 YARA – Malware pattern-matching tool used by researchers.
-    🧑‍💻 HxD – Hex editor for raw disk editing and analysis.
-    🧑‍💻 FTK Imager – Disk imaging and evidence preview tool.
-    🧑‍💻 Capstone – Disassembly framework for binary analysis.
+   - 🧑‍💻 **Autopsy** – Digital forensics platform for analyzing hard drives and smartphones.
+   - 🧠 **Volatility** – Memory forensics framework for analyzing RAM dumps.
+   - 🗂️ **Binwalk** – Firmware analysis tool for extracting embedded files.
+   - 🔍 **Sleuth Kit (TSK)** – Command-line tools for disk image investigation.
+   - 🧑‍💻 **ExifTool** – Metadata extractor for images, videos, and documents.
+   - 🗃️ **TestDisk** – Disk recovery tool to restore lost partitions.
+   - 🔄 **PhotoRec** – File recovery software for deleted files from disks.
+   - 🧑‍💻 **Foremost** – File carving tool for data recovery based on headers.
+   - 🔑 **Hashdeep** – File hashing tool with recursive hashing & audit mode.
+   - 🧑‍💻 **Bulk Extractor** – Extracts email, URLs, and other artifacts from raw data.
+   - 🗄️ **Digital Forensics Framework (DFF)** – Open-source platform for digital forensics.
+   - 🧑‍💻 **Xplico** – Network forensics tool to reconstruct network sessions.
+   - 🧑‍💻 **NetworkMiner** – Passive network packet analyzer for network forensics.
+   - 🧑‍💻 **Pdf-parser** – Analyze and extract content from PDF files.
+   - 🧑‍💻 **RegRipper** – Windows registry analysis tool.
+   - 🧑‍💻 **PEView** – Portable executable (PE) file viewer for malware analysis.
+   - 🧑‍💻 **YARA** – Malware pattern-matching tool used by researchers.
+   - 🧑‍💻 **HxD** – Hex editor for raw disk editing and analysis.
+   - 🧑‍💻 **FTK Imager** – Disk imaging and evidence preview tool.
+   - 🧑‍💻 **Capstone** – Disassembly framework for binary analysis.
 
-⏳ Stress Testing
+## ⏳ **Stress Testing**
 
-    🐌 Slowloris – HTTP DoS tool for keeping many connections open
-    🛰️ LOIC – Low Orbit Ion Cannon for stress testing
-    🐻 HULK – HTTP flood tool that makes use of varied requests
-    🦸 GoldenEye – Python-based HTTP denial-of-service tool
-    💨 Tsunami – Network stress testing and security evaluation
-    🛑 R-U-Dead-Yet – Simple DoS testing tool
-    🧯 DDoS-Sim – DDoS simulation tool
-    💥 Xerxes – Powerful DDoS attack tool for testing purposes
-    🎯 Web-Hulk – Web server stress testing tool
-    🚀 Synful – SYN flood tool for stress testing
-    💣 LOIC-PowerShell – PowerShell-based LOIC for DDoS testing
-    🌐 T50 – A powerful stress testing tool that simulates multiple attack vectors
-    🌪️ RIP-Lite – Lightweight stress testing tool for HTTP and SOCKS
-    🐉 Stress-ng – A tool that can stress test the CPU, RAM, I/O, and more
-    🛠️ XDT – DDoS testing tool with multi-protocol support
-    🥂 Botnet – DDoS botnet attack simulation tool
-    🔨 DDOS-Exploit – Exploit kit for DDoS stress testing
-    🛡️ Fudp – A multi-threaded UDP flooder for stress testing
-    ⚡ BlackHAT – A stress testing framework for web applications
+   - 🐌 **Slowloris** – HTTP DoS tool for keeping many connections open
+   - 🛰️ **LOIC** – Low Orbit Ion Cannon for stress testing
+   - 🐻 **HULK** – HTTP flood tool that makes use of varied requests
+   - 🦸 **GoldenEye** – Python-based HTTP denial-of-service tool
+   - 💨 **Tsunami** – Network stress testing and security evaluation
+   - 🛑 **R-U-Dead-Yet** – Simple DoS testing tool
+   - 🧯 **DDoS-Sim** – DDoS simulation tool
+   - 💥 **Xerxes** – Powerful DDoS attack tool for testing purposes
+   - 🎯 **Web-Hulk** – Web server stress testing tool
+   - 🚀 **Synful** – SYN flood tool for stress testing
+   - 💣 **LOIC-PowerShell** – PowerShell-based LOIC for DDoS testing
+   - 🌐 **T50** – A powerful stress testing tool that simulates multiple attack vectors
+   - 🌪️ **RIP-Lite** – Lightweight stress testing tool for HTTP and SOCKS
+   - 🐉 **Stress-ng** – A tool that can stress test the CPU, RAM, I/O, and more
+   - 🛠️ **XDT** – DDoS testing tool with multi-protocol support
+   - 🥂 **Botnet** – DDoS botnet attack simulation tool
+   - 🔨 **DDOS-Exploit** – Exploit kit for DDoS stress testing
+   - 🛡️ **Fudp** – A multi-threaded UDP flooder for stress testing
+   - ⚡ **BlackHAT** – A stress testing framework for web applications
 
-🕵️‍♀️ Sniffing & Spoofing
+## 🕵️‍♀️ **Sniffing & Spoofing**
 
     🌐 Wireshark – Network protocol analyzer
     🕵️‍♂️ Ettercap – Man-in-the-middle attack tool
@@ -243,28 +243,28 @@
     🧑‍💻 APKTool – Decompile and rebuild Android APKs.
     🔓 JEB Decompiler – Commercial decompiler for Android and other platforms.
 
-📝 Reporting Tools
+## 📝 **Reporting Tools**
 
-    📄 Dradis – Collaboration and reporting platform for pentesters.
-    🧑‍💻 Faraday – Multi-user penetration testing IDE.
-    🌳 MagicTree – Pentesting productivity tool for data aggregation and reporting.
-    📊 Serpico – Simplifying pentest reporting using templates.
-    📝 LaTeX – High-quality typesetting system often used for security reports.
-    📑 reNgine – Automated reconnaissance framework with reporting.
-    🧑‍💻 ReconNote – Web-based notes manager for recon and reporting.
-    📝 Pentracker – Pentest reporting and management tool.
-    📄 Markdown – Lightweight markup language for clean report writing.
-    📄 Ghostwriter – Reporting and engagement management platform.
-    📊 VulnReport – Automated vulnerability reporting platform.
-    📋 Katana Framework – Post-exploitation and reporting utility.
-    📑 Pentest-Report-Template – Professional pentest report LaTeX template.
-    📄 ProofSuite – Automated proof of concept and reporting tool.
-    🧑‍💻 VulnWhisperer – Vulnerability management reporting with Nessus, Qualys, and OpenVAS.
-    📜 RiskSense – Risk-based vulnerability management and reporting.
-    📝 Pentestly – Powershell-based post-exploitation and reporting.
-    📄 SecReport – Report generation tool for pentesters.
-    📋 PwnDoc – Pentest reporting tool with customizable templates.
-    🧑‍💻 PenTest-Wiki – Knowledge base for pentesting & reporting references.
+   - 📄 **Dradis** – Collaboration and reporting platform for pentesters.
+   - 🧑‍💻 **Faraday** – Multi-user penetration testing IDE.
+   - 🌳 **MagicTree** – Pentesting productivity tool for data aggregation and reporting.
+   - 📊 **Serpico** – Simplifying pentest reporting using templates.
+   - 📝 **LaTeX** – High-quality typesetting system often used for security reports.
+   - 📑 **reNgine** – Automated reconnaissance framework with reporting.
+   - 🧑‍💻 **ReconNote** – Web-based notes manager for recon and reporting.
+   - 📝 **Pentracker** – Pentest reporting and management tool.
+   - 📄 **Markdown** – Lightweight markup language for clean report writing.
+   - 📄 **Ghostwriter** – Reporting and engagement management platform.
+   - 📊 **VulnReport** – Automated vulnerability reporting platform.
+   - 📋 **Katana Framework** – Post-exploitation and reporting utility.
+   - 📑 **Pentest-Report-Template** – Professional pentest report LaTeX template.
+   - 📄 **ProofSuite** – Automated proof of concept and reporting tool.
+   - 🧑‍💻 **VulnWhisperer** – Vulnerability management reporting with Nessus, Qualys, and OpenVAS.
+   - 📜 **RiskSense** – Risk-based vulnerability management and reporting.
+   - 📝 **Pentestly** – Powershell-based post-exploitation and reporting.
+   - 📄 **SecReport** – Report generation tool for pentesters.
+   - 📋 **PwnDoc** – Pentest reporting tool with customizable templates.
+   - 🧑‍💻 **PenTest-Wiki** – Knowledge base for pentesting & reporting references.
 
 ## 🎭 **Social Engineering Tools**
 
