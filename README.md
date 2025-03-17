@@ -2,7 +2,7 @@
 
 ## 📜 **Table of Contents**
 
-   - <a href="#information-gathering">🔍 Information Gathering</a>
+   - <a href="#information-gathering">Information Gathering</a>
 
      <h2 id="information-gathering">🔍 Information Gathering</h2>
 
