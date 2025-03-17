@@ -2,7 +2,11 @@
 
 ## 📜 **Table of Contents**
 
-   - 🔍 **Information Gathering**
+   - <a href="#information-gathering">🔍 Information Gathering</a>
+
+     <h2 id="information-gathering">🔍 Information Gathering</h2>
+
+
    -  🔎 **Vulnerability Analysis**
    - 💥 **Exploitation Tools**
    - 📡 **Wireless Attacks**
