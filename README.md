@@ -63,28 +63,28 @@
 
 ## 💥 **Exploitation Tools**
 
-    🎯 Metasploit Framework – Powerful exploit development and penetration testing framework.
-    🚀 Armitage – GUI front-end for Metasploit to visualize attacks.
-    🌐 BeEF (Browser Exploitation Framework) – Exploits browser vulnerabilities for client-side attacks.
-    💻 ExploitDB – Archive of public exploits and proof-of-concept code.
-    📜 SearchSploit – Offline version of ExploitDB for quick exploit searching.
-    🐍 sqlmap – Automated SQL injection exploitation tool.
-    📤 Commix – Automated command injection vulnerability scanner.
-    🖥️ RouterSploit – Exploits vulnerabilities in routers, IoT, and embedded devices.
-    📲 SET (Social Engineering Toolkit) – Human hacking via phishing, payloads, and more.
-    🕵️‍♂️ Empire – Post-exploitation framework for PowerShell agents.
-    🧑‍💻 Pupy – Cross-platform post-exploitation remote access tool (RAT).
-    🧨 Sliver – C2 framework for adversary simulation and red teaming.
-    🐚 Shellter – Dynamic shellcode injector for Windows executables.
-    🐦 Merlin – Post-exploitation command & control server using HTTP/2.
-    🧙‍♂️ Covenant – C#-based post-exploitation platform.
-    🔒 PowerSploit – PowerShell scripts for post-exploitation.
-    🔎 Windows Exploit Suggester – Suggests exploits based on Windows OS versions.
-    📦 PayloadsAllTheThings – Collection of payloads for exploits, fuzzing, and pentesting.
-    🧑‍💻 Fuzzbunch – NSA’s exploit framework (part of the Shadow Brokers leak).
-    🛠️ CrackMapExec – Swiss army knife for post-exploitation in Windows environments.
+   - 🎯 **Metasploit Framework** – Powerful exploit development and penetration testing framework.
+   - 🚀 **Armitage** – GUI front-end for Metasploit to visualize attacks
+   - 🌐 **BeEF** (Browser Exploitation Framework) – Exploits browser vulnerabilities for client-side attacks.
+   - 💻 **ExploitDB** – Archive of public exploits and proof-of-concept code.
+   - 📜 **SearchSploit** – Offline version of ExploitDB for quick exploit searching.
+   - 🐍 **sqlmap** – Automated SQL injection exploitation tool.
+   - 📤 **Commix** – Automated command injection vulnerability scanner.
+   - 🖥️ **RouterSploit** – Exploits vulnerabilities in routers, IoT, and embedded devices.
+   - 📲 **SET** (Social Engineering Toolkit) – Human hacking via phishing, payloads, and more.
+   - 🕵️‍♂️ **Empire** – Post-exploitation framework for PowerShell agents.
+   - 🧑‍💻 **Pupy** – Cross-platform post-exploitation remote access tool (RAT).
+   - 🧨 **Sliver** – C2 framework for adversary simulation and red teaming.
+   - 🐚 **Shellter** – Dynamic shellcode injector for Windows executables.
+   - 🐦 **Merlin** – Post-exploitation command & control server using HTTP/2.
+   - 🧙‍♂️ **Covenant** – C#-based post-exploitation platform.
+   - 🔒 **PowerSploit** – PowerShell scripts for post-exploitation.
+   - 🔎 **Windows Exploit** Suggester – Suggests exploits based on Windows OS versions
+   - 📦 **PayloadsAllTheThings** – Collection of payloads for exploits, fuzzing, and pentesting.
+   - 🧑‍💻 **Fuzzbunch** – NSA’s exploit framework (part of the Shadow Brokers leak).
+   - 🛠️ **CrackMapExec** – Swiss army knife for post-exploitation in Windows environments.
 
-📡 Wireless Attacks
+## 📡 **Wireless Attacks**
 
     📡 Aircrack-ng – WiFi cracking suite
     🛠️ Reaver – WPS attack tool
