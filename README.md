@@ -1,12 +1,7 @@
 # 🛠️ Hacking-Tools
 
 ## 📜 **Table of Contents**
-
-    <a href="#information-gathering">🔍 Information Gathering</a>
-
-     <h2 id="information-gathering">🔍 Information Gathering</h2>
-
-
+   - 🔍 Information Gathering
    -  🔎 **Vulnerability Analysis**
    - 💥 **Exploitation Tools**
    - 📡 **Wireless Attacks**
