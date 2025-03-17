@@ -86,28 +86,28 @@
 
 ## 📡 **Wireless Attacks**
 
-    📡 Aircrack-ng – WiFi cracking suite
-    🛠️ Reaver – WPS attack tool
-    🧑‍💻 Fern WiFi Cracker – Wireless network auditing tool
-    🔓 Wifite – Automated wireless attack tool
-    🛡️ Kismet – Wireless network detector & sniffer
-    🌐 MDK3 – Wireless network attack tool
-    🎯 PixieWPS – WPS offline attack tool
-    🧠 WPA2 Wordlist Generator – Generate custom WPA2 wordlists
-    🕵️‍♂️ Bully – WPS attack tool for brute-forcing
-    🔄 Evil Twin – Create fake AP for capturing handshakes
-    🚀 WiFi-Pumpkin – Man-in-the-middle framework for Wi-Fi networks
-    🧩 Airgeddon – Multi-use bash script for wireless auditing
-    🧑‍💻 Ghost Phisher – Wireless network attack tool for phishing
-    🧑‍🔧 NoCatSplash – Captive portal for Wi-Fi networks
-    🦠 Wifiphisher – Phishing tool for Wi-Fi networks
-    📡 WLANPi – Wireless attack platform for pen-testers
-    🛠️ Cowpatty – Tool for offline WPA2 cracking
-    🌐 Scapy – Python tool for packet manipulation and analysis
-    📶 NetStumbler – Wi-Fi scanner for Windows
-    🔒 Wi-Fi Pineapple – Wireless attack platform by Hak5
+   - 📡 **Aircrack-ng** – WiFi cracking suite
+   - 🛠️ **Reaver** – WPS attack tool
+   - 🧑‍💻 **Fern WiFi Cracker** – Wireless network auditing tool
+   - 🔓 **Wifite** – Automated wireless attack tool
+   - 🛡️ **Kismet** – Wireless network detector & sniffer
+   - 🌐 **MDK3** – Wireless network attack tool
+   - 🎯 **PixieWPS** – WPS offline attack tool
+   - 🧠 **WPA2 Wordlist Generator** – Generate custom WPA2 wordlists
+   - 🕵️‍♂️ **Bully** – WPS attack tool for brute-forcing
+   - 🔄 **Evil Twin** – Create fake AP for capturing handshakes
+   - 🚀 **WiFi-Pumpkin** – Man-in-the-middle framework for Wi-Fi networks
+   - 🧩 **Airgeddon** – Multi-use bash script for wireless auditing
+   - 🧑‍💻 **Ghost Phisher** – Wireless network attack tool for phishing
+   - 🧑‍🔧 **NoCatSplash** – Captive portal for Wi-Fi networks
+   - 🦠 **Wifiphisher** – Phishing tool for Wi-Fi networks
+   - 📡 **WLANPi** – Wireless attack platform for pen-testers
+   - 🛠️ **Cowpatty** – Tool for offline WPA2 cracking
+   - 🌐 **Scapy** – Python tool for packet manipulation and analysis
+   - 📶 **NetStumbler** – Wi-Fi scanner for Windows
+   - 🔒 **Wi-Fi Pineapple** – Wireless attack platform by Hak5
 
-🧑‍💻 Forensics Tools
+## 🧑‍💻 **Forensics Tools**
 
     🧑‍💻 Autopsy – Digital forensics platform for analyzing hard drives and smartphones.
     🧠 Volatility – Memory forensics framework for analyzing RAM dumps.
